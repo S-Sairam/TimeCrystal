@@ -121,7 +121,7 @@ def plot_dtc_results(
     plt.legend()
 
 SIM_PARAMS = {
-    'cycles': 50,
+    'cycles': 100,
     'g_value': 0.9,
     'theta': np.pi,
     'phi': np.pi,
