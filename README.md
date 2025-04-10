@@ -2,8 +2,8 @@
 
 This project is an **educational replication** of the paper:
 
-> **"Continuous time crystal in an electron-nuclear spin system: stability and melting of periodic auto-oscillations"**  
-> *A. Greilich et al., TU Dortmund, Ioffe Institute (2023)*
+>Continuous time crystal in an electron-nuclear spin system: stability and melting of periodic auto-oscillations
+>Greilich, A., Kopteva, N. E., Kamenskii, A. N., Sokolov, P. S., Korenev, V. L., & Bayer, M. (2023).
 
 ---
 
